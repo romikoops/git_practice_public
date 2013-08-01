@@ -1,4 +1,4 @@
-Roman is a good teacher! :)
+This is public repository, which helps StrongQA students to pass examination related with Git
 
 Task:
 
@@ -14,4 +14,4 @@ Please put your short feedback about previous course under your name in list:
 
 5. Vladislav Parashchenko
 
-6. Yuriy Kurenkov
+6. Yuriy Kurenkov: Roman is a good teacher! 
