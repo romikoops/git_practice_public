@@ -4,7 +4,7 @@ Task:
 
 Please put your short feedback about previous course under your name in list:
 
-1. Alexander Kucherenko:
+1. Alexander Kucherenko: Hardcore ruby course with lots of practical tasks which covers all aspects of the language
 
 2. Alexander Trofimenko:
 
