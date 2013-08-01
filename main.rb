@@ -1,6 +1,5 @@
 # encoding: UTF-8
-# ������ ����� ���� - "0" �� �������������� ��� ������ �����
-
+#
 puts "Enter any integer:"
 count = nil
 while count.to_i == 0 do
