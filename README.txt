@@ -1,4 +1,4 @@
-This is public repository, which helps StrongQA students to pass examination related with Git
+Roman is a good teacher! :)
 
 Task:
 
